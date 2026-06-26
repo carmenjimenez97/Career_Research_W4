@@ -1,0 +1,128 @@
+---
+title: "Career Research Essay: Preparing for Careers in Omnichannel Retailing and E-Commerce"
+author: "Carmen Lia Jimenez Rodriguez"
+date: today
+format:
+  html:
+    toc: true
+    toc-depth: 4
+    number-sections: true
+    code-link: true
+    embed-resources: true
+    theme: cosmo
+    code-overflow: wrap
+editor: visual
+execute:
+  freeze: auto
+---
+
+# Introduction
+
+Retail has changed significantly over the past several years. Today, customers expect a smooth shopping experience whether they are buying products in a physical store, on a website, through a mobile app, or on an online marketplace. Because of this shift, companies are looking for professionals who understand how different retail channels work together and who can use digital tools to improve both customer experience and business performance.
+For this career research essay, I analyze three job postings related to omnichannel retailing: Ecommerce Operations Coordinator at ANINE BING (LinkedIn), Retail Marketing Coordinator at Skechers (LinkedIn), and Digital Merchandising Assistant at Garnet Clothiers (Handshake). Although each position focuses on a different area of retail, they all show how technology, marketing, merchandising, and operations work together to create a successful omnichannel strategy. By analyzing these job postings, I was able to identify the skills, tools, and knowledge employers are looking for and reflect on how this course and the Master of Science in Digital Marketing (MSDM) program can help me prepare for a career in this field.
+
+::: {.callout-note}
+The three positions I selected represent three key areas of omnichannel retailing: E-commerce Operations**, **Retail Marketing**, and **Digital Merchandising.
+:::
+
+#  Job Postings Summary
+
+For this assignment, I selected three job postings from LinkedIn and Handshake that relate to omnichannel retailing. Reviewing these positions helped me better understand the responsibilities, skills, and technologies that employers expect from candidates entering the retail and e-commerce industry.
+
+## Job Posting 1: Ecommerce Operations Coordinator –  Company: ANINE BING – Plataform: LinkedIn
+
+The Ecommerce Operations Coordinator position at ANINE BING focuses on supporting the company's e-commerce and marketplace operations. The role involves developing reports related to sales, inventory, demand, and operational performance while analyzing key performance indicators (KPIs) to identify business opportunities and improve decision-making.
+
+Other important responsibilities include managing product setup, updating digital merchandising content, coordinating promotional campaigns, supporting marketplace launches, and improving operational processes. The company is looking for someone with experience in e-commerce operations, strong communication skills, and the ability to manage multiple projects. Technical skills such as **Shopify, NetSuite, Microsoft Excel, and Google Workspace** are highly preferred.
+
+## Job Posting 2: Retail Marketing Coordinator –  Company: Skechers – Plataform: LinkedIn
+
+The Retail Marketing Coordinator position at Skechers focuses on planning and executing retail marketing campaigns and promotions. Responsibilities include creating promotional materials, supporting new store openings through email and SMS marketing, creating web advertisements, managing promotional events, and preparing campaign performance reports.
+
+The position requires strong organizational and communication skills, attention to detail, and experience working in a fast-paced retail environment. Candidates are expected to have knowledge of **Microsoft Excel, Microsoft Office, Adobe Photoshop, Adobe InDesign, Adobe Illustrator, Canva, and POS systems**. A bachelor's degree in Marketing, Business, or a related field is preferred.
+
+## Job Posting 3: Digital Merchandising Assistant – Company: Garnet Clothiers, Plataform: Handshake
+
+The Digital Merchandising Assistant position at Garnet Clothiers is designed for students or recent graduates interested in fashion, e-commerce, and digital merchandising. The role includes organizing product assets, managing inventory samples, coordinating product photo shoots, and using AI-powered tools to improve product images and online content.
+The position also supports digital merchandising projects across the company's website and online marketplaces. Employers are looking for candidates who are organized, detail-oriented, interested in fashion and e-commerce, and comfortable working in a fast-paced environment. This role provides practical experience with digital merchandising, product catalog management, and AI-assisted content creation.
+
+## Comparison of the Three Job Postings
+
+| Job Title | Company | Main Focus | Important Tools |
+|------------|----------|------------|-----------------|
+| Ecommerce Operations Coordinator | ANINE BING | E-commerce operations, reporting, inventory, marketplaces | Shopify, NetSuite, Excel, Google Workspace |
+| Retail Marketing Coordinator | Skechers | Marketing campaigns, promotions, digital advertising | Excel, Canva, Adobe Creative Suite, POS |
+| Digital Merchandising Assistant | Garnet Clothiers | Product catalogs, merchandising, AI content, inventory | AI tools, digital assets, online marketplaces |
+
+::: {.callout-tip}
+Although the three positions have different responsibilities, they all require strong communication, organization, attention to detail, collaboration, and digital skills. This demonstrates that omnichannel retailing depends on professionals who can combine business knowledge with technology.
+:::
+
+# Skills and Knowledge Required
+
+After reviewing the three job postings, I noticed that even though the positions are different, they have many skills in common. Each role focuses on a different area of omnichannel retailing, but all of them require employees who are comfortable working with technology, solving problems, and collaborating with different teams.
+One thing that stood out to me was how important digital tools have become in retail careers. For example, the Ecommerce Operations Coordinator position at ANINE BING requires experience with Shopify, NetSuite, Microsoft Excel, and Google Workspace to manage inventory, analyze sales, and support marketplace operations. The Retail Marketing Coordinator position at Skechers also emphasizes digital tools, including Excel, Adobe Creative Suite, Canva, and POS systems, to help manage marketing campaigns and promotional activities. Although the Digital Merchandising Assistant role at Garnet Clothiers is more creative, it also involves using AI tools, organizing digital product assets, and managing content for websites and online marketplaces. This shows that technology plays an important role in almost every area of modern retail.
+
+Another pattern I noticed is that employers place a lot of value on organization and time management. All three positions involve handling multiple responsibilities at the same time, whether it is coordinating projects, preparing marketing campaigns, managing product information, or keeping inventory organized. Being able to stay organized and pay attention to details seems to be just as important as having technical knowledge.
+Communication was another skill that appeared in every job posting. Each company expects employees to work with different departments, including marketing, merchandising, operations, and external partners. Since omnichannel retailing connects many parts of a business, being able to communicate clearly and work well with others is essential for keeping projects on schedule and providing a better customer experience.
+
+Finally, I noticed that all three positions are connected by one common goal: improving the customer experience. Even though each role contributes in a different way, they all help customers have a smoother shopping experience. The Ecommerce Operations Coordinator focuses on making sure online operations run efficiently, the Retail Marketing Coordinator attracts customers through promotions and campaigns, and the Digital Merchandising Assistant improves product information and images so customers can make informed purchasing decisions. Together, these positions show that successful omnichannel retailing depends on combining technology, teamwork, and customer-focused thinking.
+::: {.callout-important}
+After comparing the three job postings, I found that the most common qualifications were communication, organization, attention to detail, project coordination, Microsoft Excel, digital marketing knowledge, and experience working with digital platforms. These skills appear to be essential for anyone interested in a career in omnichannel retailing.
+
+:::
+
+# Connection to This Course and the MSDM Program
+
+While reading these job postings, I realized that many of the responsibilities match the projects and concepts we have covered in this course. Before taking this class, I mostly associated retail careers with managing physical stores. However, learning about omnichannel retailing has changed my perspective. I now understand that retail professionals also work with e-commerce platforms, digital merchandising, online marketing, inventory systems, and customer data to improve the overall shopping experience.
+The Ecommerce Operations Coordinator position at ANINE BING is a good example of how this course connects to real-world careers. One of the main responsibilities of this role is managing products through Shopify, supporting marketplace operations, and analyzing sales and inventory data. During this course, I learned how to build and organize a Shopify store, create product listings, and understand how product information affects the customer experience. These activities helped me better understand why companies value these technical skills.
+I also noticed a strong connection between the Digital Merchandising Assistant position at Garnet Clothiers and our class assignments. In this course, we practiced organizing product catalogs, writing product descriptions, and thinking about how images and product information influence customers' purchasing decisions. The Garnet position requires managing digital assets, coordinating product content, and supporting online merchandising, which are all responsibilities that relate closely to what we have been learning.
+The Retail Marketing Coordinator position at Skechers also reflects many of the concepts discussed in class. This role focuses on promotions, digital advertising, campaign reporting, and customer communication through email and SMS marketing. These responsibilities connect well with topics such as Google Merchant Center, Google Shopping Ads, omnichannel marketing, and customer journey analysis. Although I know I still have more to learn, this course has given me a solid introduction to these tools and concepts.
+Beyond this class, I believe the MSDM program has helped me build a broader understanding of digital marketing. Courses such as Marketing Analytics, Consumer Behavior, Marketing Research, Business Communication, and Strategic Marketing have helped me understand how companies use data to make decisions and improve customer experiences. Together, these courses provide both the technical knowledge and the strategic thinking needed for careers in omnichannel retailing.
+
+::: {.callout-note}
+After taking this course, I realized that omnichannel retailing is much more than just selling products online or in a store. It is about understanding how different channels work together to create a better shopping experience for customers. Learning about tools like Shopify and Google Analytics, as well as digital merchandising and customer experience, helped me better understand how these concepts are applied in real retail businesses. It also made me realize that successful retailing is not just about making sales it is about creating a better experience for customers across different channels.
+
+:::
+
+# Personal Career Reflection
+
+Among the three positions I researched, the Digital Merchandising Assistant role at Garnet Clothiers is the one that caught my attention the most. I like this position because it combines creativity with technology. I enjoy the idea of organizing product information, improving product images, and helping create a better online shopping experience for customers. I also found it interesting that the company uses AI tools and digital platforms, since technology is becoming an important part of the retail industry.
+
+Through this course and the MSDM program, I have learned skills that are directly related to this type of position. Building a Shopify store, creating product catalogs, and learning about customer experience helped me understand how much work goes into managing an online store. Before taking this course, I did not realize how important digital merchandising was, but now I can see how product information and images can influence a customer's shopping experience.
+
+At the same time, I know there are still skills I want to improve. I would like to become more confident using Google Analytics 4 and continue improving my Excel skills because many of the job postings I reviewed mentioned them. I also want more hands-on experience working with e-commerce platforms and digital merchandising tools so I can feel more prepared when I apply for jobs.
+
+This semester, one of my goals is to update my resume and LinkedIn profile by adding the projects I completed in this course, especially my Shopify store and product catalog assignments. I think these projects show that I have practical experience, not just classroom knowledge. I also hope to apply for internships or entry-level positions related to digital merchandising because I want to continue learning while gaining real-world experience.
+
+
+# References
+
+ANINE BING. (2026). *Ecommerce Operations Coordinator*. LinkedIn.
+https://www.linkedin.com/jobs/view/4417518383/?alternateChannel=search&trackingId=AOhLXwpoSamvjBl606PGAw%3D%3D
+
+Skechers. (2026). *Retail Marketing Coordinator*. LinkedIn.
+https://www.linkedin.com/jobs/view/4410770652/?alternateChannel=search&eBP=NON_CHARGEABLE_CHANNEL&refId=tXSI6gIMd02fv4AXEjhpbg%3D%3D&trackingId=Z4l1hs7tn5MNcX1TS2lcFA%3D%3D
+
+Garnet Clothiers. (2026). *Digital Merchandising Assistant*. Handshake.
+https://app.joinhandshake.com/job-search/11159275?query=Digital+Merchandising+Coordinator&per_page=25&sort=relevance&page=1
+
+# Appendix
+
+## Job Posting Links
+
+- ANINE BING – Ecommerce Operations Coordinator
+<https://www.linkedin.com/jobs/view/4417518383>
+
+- Skechers – Retail Marketing Coordinator
+<https://www.linkedin.com/jobs/view/4410770652>
+
+- Garnet Clothiers – Digital Merchandising Assistant
+<https://app.joinhandshake.com/job-search/11159275>
+
+## GitHub Repository
+
+
+
+## GitHub Pages
+
